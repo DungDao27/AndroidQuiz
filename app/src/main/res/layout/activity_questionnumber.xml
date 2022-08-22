@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/nice">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="350dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/level_panel"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/level"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp"
+                android:text=""
+                android:textSize="25dp" />
+
+            <Button
+                android:id="@+id/select5"
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:layout_marginStart="63dp"
+                android:layout_marginEnd="63dp"
+                android:background="@drawable/blue_buttonmdpi"
+                android:text="5"
+                android:textSize="22dp" />
+
+            <Button
+                android:id="@+id/select10"
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:layout_marginStart="63dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="63dp"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/blue_buttonmdpi"
+                android:text="10"
+                android:textSize="22dp" />
+
+        </LinearLayout>
+        <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:background="@drawable/cancel_button"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="88dp"
+            />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

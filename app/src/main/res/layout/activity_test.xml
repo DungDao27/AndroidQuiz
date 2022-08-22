@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/bla">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_alignParentBottom="true">
+            <TextView
+                android:id="@+id/questionNum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:text=""
+                android:textSize="25dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="18dp">
+
+            <TextView
+                android:id="@+id/questionType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginEnd="18dp">
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/star"/>
+            <TextView
+                android:id="@+id/Txt_Score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textSize="40dp"
+                android:textColor="#010101"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="211dp"
+        android:background="@drawable/flagview">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/shape_liner"
+            android:max="5" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:padding="27dp">
+
+            <TextView
+                android:id="@+id/TxtCauhoi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:textColor="@color/black"
+                android:textSize="25dp" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <!--Answer-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <RadioGroup
+            android:id="@+id/RadioGroupTraloi"
+            android:layout_width="match_parent"
+            android:layout_height="282dp"
+            android:layout_below="@+id/TxtCauhoi"
+            android:layout_marginTop="-10dp"
+            android:padding="30dp">
+
+            <RadioButton
+                android:id="@+id/RdbA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="#F44336"
+                android:padding="7dp"
+                android:textColor="@color/white"
+                android:text="A. "
+                android:textSize="15dp" />
+
+            <RadioButton
+                android:id="@+id/RdbB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="#F44336"
+                android:padding="7dp"
+                android:textColor="@color/white"
+                android:text="B. "
+                android:textSize="15dp" />
+
+            <RadioButton
+                android:id="@+id/RdbC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="#F44336"
+                android:padding="7dp"
+                android:textColor="@color/white"
+                android:text="C. "
+                android:textSize="15dp" />
+
+            <RadioButton
+                android:id="@+id/RdbD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="#F44336"
+                android:padding="7dp"
+                android:textColor="@color/white"
+                android:text="D. "
+                android:textSize="15dp" />
+        </RadioGroup>
+    </LinearLayout>
+    <Button
+        android:id="@+id/BtnTraloi"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/RadioGroupTraloi"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:text="Answer"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_below="@+id/BtnTraloi"
+        android:layout_centerHorizontal="true"
+        />
+
+</LinearLayout>

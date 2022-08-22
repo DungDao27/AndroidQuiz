@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare>
+    <Item>
+        <ID>1</ID>
+        <Question> It _____ Jack’s birthday two days ago.</Question>
+        <AnswerA>was</AnswerA>
+        <AnswerB>were</AnswerB>
+        <AnswerC>is</AnswerC>
+        <AnswerD>are</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question>My family left London and moved _____ a small village</Question>
+        <AnswerA>to</AnswerA>
+        <AnswerB>in</AnswerB>
+        <AnswerC>at</AnswerC>
+        <AnswerD>for</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>3</ID>
+        <Question>I didn’t see Sandy very often _____ we talked on the telephone.</Question>
+        <AnswerA>and</AnswerA>
+        <AnswerB>but</AnswerB>
+        <AnswerC>until</AnswerC>
+        <AnswerD>when</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Question>A city is _____ than the country.</Question>
+        <AnswerA>the most exciting</AnswerA>
+        <AnswerB>exciting</AnswerB>
+        <AnswerC>more exciting</AnswerC>
+        <AnswerD>excited</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>5</ID>
+        <Question>Alice _____ back from America last month.</Question>
+        <AnswerA>come</AnswerA>
+        <AnswerB>came</AnswerB>
+        <AnswerC>comes</AnswerC>
+        <AnswerD>coming</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>6</ID>
+        <Question>Their son _____ born at 2 o’clock this morning.</Question>
+        <AnswerA>were</AnswerA>
+        <AnswerB>is</AnswerB>
+        <AnswerC>was</AnswerC>
+        <AnswerD>are</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>7</ID>
+        <Question>She is taller _____ her elder sister.</Question>
+        <AnswerA>than</AnswerA>
+        <AnswerB>then</AnswerB>
+        <AnswerC>that</AnswerC>
+        <AnswerD>the</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>8</ID>
+        <Question>The Greens lived in London _____ six years.</Question>
+        <AnswerA>since</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>of</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>9</ID>
+        <Question>He was born _____ 1999.</Question>
+        <AnswerA>on</AnswerA>
+        <AnswerB>at</AnswerB>
+        <AnswerC>of</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>10</ID>
+        <Question>These exercises are _____ in the exam.</Question>
+        <AnswerA>the difficulties</AnswerA>
+        <AnswerB>the most difficult</AnswerB>
+        <AnswerC>most difficult</AnswerC>
+        <AnswerD>the difficult</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>11</ID>
+        <Question>Yesterday was _____ than today.</Question>
+        <AnswerA>most hottest</AnswerA>
+        <AnswerB>more hot</AnswerB>
+        <AnswerC>hot</AnswerC>
+        <AnswerD>much hotter</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>12</ID>
+        <Question>She _____ work when she was 18</Question>
+        <AnswerA>started</AnswerA>
+        <AnswerB>starts</AnswerB>
+        <AnswerC>start</AnswerC>
+        <AnswerD>starting</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>13</ID>
+        <Question>She is worried ______ her exams</Question>
+        <AnswerA>of</AnswerA>
+        <AnswerB>about</AnswerB>
+        <AnswerC>with</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>14</ID>
+        <Question>Princess Diana _____ in 1997</Question>
+        <AnswerA>die</AnswerA>
+        <AnswerB>died</AnswerB>
+        <AnswerC>dies</AnswerC>
+        <AnswerD>dye</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>15</ID>
+        <Question>I look forward _____ meeting you next month.</Question>
+        <AnswerA>at</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>with</AnswerC>
+        <AnswerD>to</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>16</ID>
+        <Question>I’m not very good _____ mathematics.</Question>
+        <AnswerA>in</AnswerA>
+        <AnswerB>on</AnswerB>
+        <AnswerC>at</AnswerC>
+        <AnswerD>with</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>17</ID>
+        <Question>I’m the _____ in the class.</Question>
+        <AnswerA>youngest</AnswerA>
+        <AnswerB>most youngest</AnswerB>
+        <AnswerC>young</AnswerC>
+        <AnswerD>younger</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>18</ID>
+        <Question>It usually _____ a lot in winter but last year it _____ .</Question>
+        <AnswerA>rains / snows</AnswerA>
+        <AnswerB>rains / snowed</AnswerB>
+        <AnswerC>rain / snowed</AnswerC>
+        <AnswerD>rain /snow</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>19</ID>
+        <Question>Our teacher _____ come to school</Question>
+        <AnswerA>aren’t</AnswerA>
+        <AnswerB>isn’t</AnswerB>
+        <AnswerC>wasn’t</AnswerC>
+        <AnswerD>didn’t</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>20</ID>
+        <Question>He was tired _____ politics
+        </Question>
+        <AnswerA>of</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>on</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>21</ID>
+        <Question>Paul _____ read until he was eight</Question>
+        <AnswerA>can’t</AnswerA>
+        <AnswerB>can</AnswerB>
+        <AnswerC>couldn’t</AnswerC>
+        <AnswerD>could</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question>Where _____ she live in 1990?</Question>
+        <AnswerA>does</AnswerA>
+        <AnswerB>is</AnswerB>
+        <AnswerC>did</AnswerC>
+        <AnswerD>do</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>23</ID>
+        <Question>They went _____ a museum</Question>
+        <AnswerA>at</AnswerA>
+        <AnswerB>to</AnswerB>
+        <AnswerC>of</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>24</ID>
+        <Question>I didn’t enjoy math lessons _____ I was at school.</Question>
+        <AnswerA>until</AnswerA>
+        <AnswerB>when</AnswerB>
+        <AnswerC>because</AnswerC>
+        <AnswerD>an</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>25</ID>
+        <Question>She is the most _____.</Question>
+        <AnswerA>intelligent</AnswerA>
+        <AnswerB>clever</AnswerB>
+        <AnswerC>cleverer</AnswerC>
+        <AnswerD>the intelligent</AnswerD>
+        <Answer>A</Answer>   </Item>
+</Questionare>

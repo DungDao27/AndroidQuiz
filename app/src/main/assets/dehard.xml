@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare>
+    <Item>
+        <ID>1</ID>
+        <Question>_____ she got a dress _____ white?</Question>
+        <AnswerA>Does / in</AnswerA>
+        <AnswerB>Has / on</AnswerB>
+        <AnswerC>Have / in</AnswerC>
+        <AnswerD>Has / in</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question>I’m going to the dentist tomorrow. I wish I _____ to the dentist.</Question>
+        <AnswerA>am not going</AnswerA>
+        <AnswerB>will go</AnswerB>
+        <AnswerC>wasn’t going</AnswerC>
+        <AnswerD>went</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <Question>If there _____ some nice fish in the supermarket, _____ you _____ some for supper tonight?</Question>
+        <AnswerA>had been / would / buy</AnswerA>
+        <AnswerB>were / would / buy</AnswerB>
+        <AnswerC>is / will / buy</AnswerC>
+        <AnswerD>are /will / buy</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Question>He has a lot of friends. He is ______ than Tony.</Question>
+        <AnswerA>much less friendly</AnswerA>
+        <AnswerB>less friendly</AnswerB>
+        <AnswerC>the most friendly</AnswerC>
+        <AnswerD>more friendly</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <Question>When I ___ the letter I wondered what ___ .</Question>
+        <AnswerA>got / had happened</AnswerA>
+        <AnswerB>get / happens</AnswerB>
+        <AnswerC>got / has happened</AnswerC>
+        <AnswerD>had got / had happened</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <Question>Give me Peter’s letter. If I _____ him, I _____ it to him.</Question>
+        <AnswerA>see / will give</AnswerA>
+        <AnswerB>saw / would give</AnswerB>
+        <AnswerC>meet / would visit</AnswerC>
+        <AnswerD>had seen / would give</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <Question>I think he was driving ______ .</Question>
+        <AnswerA>dangerous</AnswerA>
+        <AnswerB>less careful</AnswerB>
+        <AnswerC>hardly</AnswerC>
+        <AnswerD>carelessly</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <Question>This bag isn’t ______ it looks.</Question>
+        <AnswerA>as lightly as</AnswerA>
+        <AnswerB>lighter</AnswerB>
+        <AnswerC>as light as</AnswerC>
+        <AnswerD>the lightest</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <Question>When I ___ younger I ___ an idea of a wife who ___ with me in my thoughts as well as aims.</Question>
+        <AnswerA>was / had had / had been</AnswerA>
+        <AnswerB>was / had / would be</AnswerB>
+        <AnswerC>had been / had / is</AnswerC>
+        <AnswerD>have been / have / will be</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <Question>“Don’t play in the street!”</Question>
+        <AnswerA>My mother said I should play in the street.
+        </AnswerA>
+        <AnswerB>My mother told me can not to play in the street.
+        </AnswerB>
+        <AnswerC>My mother said to play in the street
+        </AnswerC>
+        <AnswerD>My mother told me not to play in the street.
+        </AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <Question>When I ___ that morning the sun ___ high in the sky.
+        </Question>
+        <AnswerA>woke up / will be shining</AnswerA>
+        <AnswerB>will wake up / had shone
+        </AnswerB>
+        <AnswerC>have waken up / shines</AnswerC>
+        <AnswerD>woke up / was shining
+        </AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <Question>The teacher promised ___ .</Question>
+        <AnswerA>that we can learn three English songs</AnswerA>
+        <AnswerB>we would learn three English songs</AnswerB>
+        <AnswerC>whether we would learn three English songs.
+        </AnswerC>
+        <AnswerD>we learn three English songs.</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <Question>Many magnificent palaces and museums ___ in our city lately</Question>
+        <AnswerA>have built</AnswerA>
+        <AnswerB>has been built</AnswerB>
+        <AnswerC>were built</AnswerC>
+        <AnswerD>have been built</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <Question>He introduced me to an acquaintance ___ that I did not know her.</Question>
+        <AnswerA>to believe</AnswerA>
+        <AnswerB>believing</AnswerB>
+        <AnswerC>to have believed</AnswerC>
+        <AnswerD>not to believe</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <Question>Children under the age of 16 are not ________ to enter for the competition.</Question>
+        <AnswerA>empowered</AnswerA>
+        <AnswerB>capable</AnswerB>
+        <AnswerC>permissible</AnswerC>
+        <AnswerD>eligible</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <Question>Motorists _____ of speeding may be banned from driving for a year</Question>
+        <AnswerA>judged</AnswerA>
+        <AnswerB>convicted</AnswerB>
+        <AnswerC>arrested</AnswerC>
+        <AnswerD>charged</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <Question>The rainbow ______ as the sun came fully out from behind the clouds.</Question>
+        <AnswerA>dissolved</AnswerA>
+        <AnswerB>removed</AnswerB>
+        <AnswerC>disappeared</AnswerC>
+        <AnswerD>retired</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <Question>She was very inquisitive and she didn’t ________ to hide her curiosity.</Question>
+        <AnswerA>discover</AnswerA>
+        <AnswerB>attempt</AnswerB>
+        <AnswerC>effect</AnswerC>
+        <AnswerD>find</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <Question>______ for the post of Senior Clerk must be received by March 10th.</Question>
+        <AnswerA>Applications</AnswerA>
+        <AnswerB>Descriptions</AnswerB>
+        <AnswerC>Offerings</AnswerC>
+        <AnswerD>Proposals</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <Question>Would you mind ________ your radio a little, please?</Question>
+        <AnswerA>turning over</AnswerA>
+        <AnswerB>turning down</AnswerB>
+        <AnswerC>turning to</AnswerC>
+        <AnswerD>turning in</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <Question>Tomorrow when you ___ the sun ___ .</Question>
+        <AnswerA>have woken up / was shining</AnswerA>
+        <AnswerB>woke up / shines</AnswerB>
+        <AnswerC>wake up / will be shining</AnswerC>
+        <AnswerD>will wake up / will shine</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question>The two young people fell in love at ________.</Question>
+        <AnswerA>first impression</AnswerA>
+        <AnswerB>first sight</AnswerB>
+        <AnswerC>long distance</AnswerC>
+        <AnswerD>short notice
+        </AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <Question>When you get to the airport, your luggage will have to be ________.</Question>
+        <AnswerA>balanced</AnswerA>
+        <AnswerB>healthy</AnswerB>
+        <AnswerC>weighed</AnswerC>
+        <AnswerD>estimated</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+    <Item>
+        <ID>24</ID>
+        <Question>He had injured his arm badly and had to keep it in a ________ for several weeks.</Question>
+        <AnswerA>sling</AnswerA>
+        <AnswerB>stretcher</AnswerB>
+        <AnswerC>cradle</AnswerC>
+        <AnswerD>litter</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>25</ID>
+        <Question>The members of the team were very ________ and changed their plans at short notice.</Question>
+        <AnswerA>plastic</AnswerA>
+        <AnswerB>lenient</AnswerB>
+        <AnswerC>flexible</AnswerC>
+        <AnswerD>loose
+        </AnswerD>
+        <Answer>C</Answer>
+    </Item>
+
+
+</Questionare>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare>
+
+    <Item>
+        <ID>1</ID>
+        <Question>______ is your name?</Question>
+        <AnswerA>How</AnswerA>
+        <AnswerB>What</AnswerB>
+        <AnswerC>Who</AnswerC>
+        <AnswerD>Where</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question>______ old are you?</Question>
+        <AnswerA>How</AnswerA>
+        <AnswerB>What</AnswerB>
+        <AnswerC>Who</AnswerC>
+        <AnswerD>Where</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <Question>_____the summer, we go to the beach.</Question>
+        <AnswerA>On</AnswerA>
+        <AnswerB>In</AnswerB>
+        <AnswerC>At</AnswerC>
+        <AnswerD>Since</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Question>He is interested _______ learning English.</Question>
+        <AnswerA>in</AnswerA>
+        <AnswerB>on</AnswerB>
+        <AnswerC>to</AnswerC>
+        <AnswerD>for</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <Question>_____do you go to the gym? - Twice a week.</Question>
+        <AnswerA>How often</AnswerA>
+        <AnswerB>Where</AnswerB>
+        <AnswerC>How</AnswerC>
+        <AnswerD>When</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <Question>It’s ______ green apple.</Question>
+        <AnswerA>the</AnswerA>
+        <AnswerB>one</AnswerB>
+        <AnswerC>a</AnswerC>
+        <AnswerD>an</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <Question>I’m _____ New York.</Question>
+        <AnswerA>at</AnswerA>
+        <AnswerB>on</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>from</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <Question>She _____ from England.</Question>
+        <AnswerA>come</AnswerA>
+        <AnswerB>comes</AnswerB>
+        <AnswerC>don't come</AnswerC>
+        <AnswerD>goes</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <Question>This is those _____ toy.</Question>
+        <AnswerA>kid's</AnswerA>
+        <AnswerB>kid</AnswerB>
+        <AnswerC>kid's</AnswerC>
+        <AnswerD>kids's</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <Question> _____ sells things.</Question>
+        <AnswerA>A postman</AnswerA>
+        <AnswerB>A nurse</AnswerB>
+        <AnswerC>A doctor</AnswerC>
+        <AnswerD>A shopkeeper</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <Question>_____ a magazine.</Question>
+        <AnswerA>Go</AnswerA>
+        <AnswerB>Read</AnswerB>
+        <AnswerC>Live</AnswerC>
+        <AnswerD>Have</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <Question>_____ month I went to Paris.</Question>
+        <AnswerA>This</AnswerA>
+        <AnswerB>That</AnswerB>
+        <AnswerC>Last</AnswerC>
+        <AnswerD>Next</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <Question>My teacher’s name _____ John.</Question>
+        <AnswerA>are</AnswerA>
+        <AnswerB>is</AnswerB>
+        <AnswerC>am</AnswerC>
+        <AnswerD>not</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <Question>__________ designs buildings.</Question>
+        <AnswerA>A pilot</AnswerA>
+        <AnswerB>An architect</AnswerB>
+        <AnswerC>A dentist</AnswerC>
+        <AnswerD>A nurse</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <Question>She loves _____ to music.</Question>
+        <AnswerA>to listen</AnswerA>
+        <AnswerB>listen</AnswerB>
+        <AnswerC>listens</AnswerC>
+        <AnswerD>listening</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <Question>Do you relax _____ weekends?</Question>
+        <AnswerA>at</AnswerA>
+        <AnswerB>on</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>by</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <Question>My parents _____ eat meat.</Question>
+        <AnswerA>are</AnswerA>
+        <AnswerB>aren't</AnswerB>
+        <AnswerC>doesn't</AnswerC>
+        <AnswerD>don't</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <Question>Marcus and Carlos _____ my brothers.
+        </Question>
+        <AnswerA>is</AnswerA>
+        <AnswerB>am</AnswerB>
+        <AnswerC>are</AnswerC>
+        <AnswerD>the</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <Question>Is there _____ apple in the bag?
+        </Question>
+        <AnswerA>a</AnswerA>
+        <AnswerB>an</AnswerB>
+        <AnswerC>the</AnswerC>
+        <AnswerD>" "</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <Question>“_____ do you travel to school?”_“By bus.”
+        </Question>
+        <AnswerA>How</AnswerA>
+        <AnswerB>What</AnswerB>
+        <AnswerC>Why</AnswerC>
+        <AnswerD>When</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <Question>Summer holidays _____ in June.</Question>
+        <AnswerA>begins</AnswerA>
+        <AnswerB>begin</AnswerB>
+        <AnswerC>beginning</AnswerC>
+        <AnswerD>began</AnswerD>
+        <Answer>begin</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question>She _____ a bus to university.</Question>
+        <AnswerA>always takes</AnswerA>
+        <AnswerB>always take</AnswerB>
+        <AnswerC>takes always</AnswerC>
+        <AnswerD>take always</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <Question>He _____ television every evening.</Question>
+        <AnswerA>watch</AnswerA>
+        <AnswerB>watches</AnswerB>
+        <AnswerC>see</AnswerC>
+        <AnswerD>buy</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <Question>Snow is ______</Question>
+        <AnswerA>cold</AnswerA>
+        <AnswerB>hot</AnswerB>
+        <AnswerC>small</AnswerC>
+        <AnswerD>cheap</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>25</ID>
+        <Question>The train leaves Paris _____ 4 p.m.</Question>
+        <AnswerA>in</AnswerA>
+        <AnswerB>at</AnswerB>
+        <AnswerC>on</AnswerC>
+        <AnswerD>by</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>26</ID>
+        <Question> It _____ Jack’s birthday two days ago.</Question>
+        <AnswerA>was</AnswerA>
+        <AnswerB>were</AnswerB>
+        <AnswerC>is</AnswerC>
+        <AnswerD>are</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>27</ID>
+        <Question>My family left London and moved _____ a small village</Question>
+        <AnswerA>to</AnswerA>
+        <AnswerB>in</AnswerB>
+        <AnswerC>at</AnswerC>
+        <AnswerD>for</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>28</ID>
+        <Question>I didn’t see Sandy very often _____ we talked on the telephone.</Question>
+        <AnswerA>and</AnswerA>
+        <AnswerB>but</AnswerB>
+        <AnswerC>until</AnswerC>
+        <AnswerD>when</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>29</ID>
+        <Question>A city is _____ than the country.</Question>
+        <AnswerA>the most exciting</AnswerA>
+        <AnswerB>exciting</AnswerB>
+        <AnswerC>more exciting</AnswerC>
+        <AnswerD>excited</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>30</ID>
+        <Question>Alice _____ back from America last month.</Question>
+        <AnswerA>come</AnswerA>
+        <AnswerB>came</AnswerB>
+        <AnswerC>comes</AnswerC>
+        <AnswerD>coming</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>31</ID>
+        <Question>Their son _____ born at 2 o’clock this morning.</Question>
+        <AnswerA>were</AnswerA>
+        <AnswerB>is</AnswerB>
+        <AnswerC>was</AnswerC>
+        <AnswerD>are</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>32</ID>
+        <Question>She is taller _____ her elder sister.</Question>
+        <AnswerA>than</AnswerA>
+        <AnswerB>then</AnswerB>
+        <AnswerC>that</AnswerC>
+        <AnswerD>the</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>33</ID>
+        <Question>The Greens lived in London _____ six years.</Question>
+        <AnswerA>since</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>of</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>34</ID>
+        <Question>He was born _____ 1999.</Question>
+        <AnswerA>on</AnswerA>
+        <AnswerB>at</AnswerB>
+        <AnswerC>of</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>35</ID>
+        <Question>These exercises are _____ in the exam.</Question>
+        <AnswerA>the difficulties</AnswerA>
+        <AnswerB>the most difficult</AnswerB>
+        <AnswerC>most difficult</AnswerC>
+        <AnswerD>the difficult</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>36</ID>
+        <Question>Yesterday was _____ than today.</Question>
+        <AnswerA>most hottest</AnswerA>
+        <AnswerB>more hot</AnswerB>
+        <AnswerC>hot</AnswerC>
+        <AnswerD>much hotter</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>37</ID>
+        <Question>She _____ work when she was 18</Question>
+        <AnswerA>started</AnswerA>
+        <AnswerB>starts</AnswerB>
+        <AnswerC>start</AnswerC>
+        <AnswerD>starting</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>38</ID>
+        <Question>She is worried ______ her exams</Question>
+        <AnswerA>of</AnswerA>
+        <AnswerB>about</AnswerB>
+        <AnswerC>with</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>39</ID>
+        <Question>Princess Diana _____ in 1997</Question>
+        <AnswerA>die</AnswerA>
+        <AnswerB>died</AnswerB>
+        <AnswerC>dies</AnswerC>
+        <AnswerD>dye</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>40</ID>
+        <Question>I look forward _____ meeting you next month.</Question>
+        <AnswerA>at</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>with</AnswerC>
+        <AnswerD>to</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>41</ID>
+        <Question>I’m not very good _____ mathematics.</Question>
+        <AnswerA>in</AnswerA>
+        <AnswerB>on</AnswerB>
+        <AnswerC>at</AnswerC>
+        <AnswerD>with</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>42</ID>
+        <Question>I’m the _____ in the class.</Question>
+        <AnswerA>youngest</AnswerA>
+        <AnswerB>most youngest</AnswerB>
+        <AnswerC>young</AnswerC>
+        <AnswerD>younger</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>43</ID>
+        <Question>It usually _____ a lot in winter but last year it _____ .</Question>
+        <AnswerA>rains / snows</AnswerA>
+        <AnswerB>rains / snowed</AnswerB>
+        <AnswerC>rain / snowed</AnswerC>
+        <AnswerD>rain /snow</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>44</ID>
+        <Question>Our teacher _____ come to school</Question>
+        <AnswerA>aren’t</AnswerA>
+        <AnswerB>isn’t</AnswerB>
+        <AnswerC>wasn’t</AnswerC>
+        <AnswerD>didn’t</AnswerD>
+        <Answer>D</Answer>   </Item>
+    <Item>
+        <ID>45</ID>
+        <Question>He was tired _____ politics
+        </Question>
+        <AnswerA>of</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>on</AnswerD>
+        <Answer>A</Answer>   </Item>
+    <Item>
+        <ID>46</ID>
+        <Question>Paul _____ read until he was eight</Question>
+        <AnswerA>can’t</AnswerA>
+        <AnswerB>can</AnswerB>
+        <AnswerC>couldn’t</AnswerC>
+        <AnswerD>could</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>47</ID>
+        <Question>Where _____ she live in 1990?</Question>
+        <AnswerA>does</AnswerA>
+        <AnswerB>is</AnswerB>
+        <AnswerC>did</AnswerC>
+        <AnswerD>do</AnswerD>
+        <Answer>C</Answer>   </Item>
+    <Item>
+        <ID>48</ID>
+        <Question>They went _____ a museum</Question>
+        <AnswerA>at</AnswerA>
+        <AnswerB>to</AnswerB>
+        <AnswerC>of</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>49</ID>
+        <Question>I didn’t enjoy math lessons _____ I was at school.</Question>
+        <AnswerA>until</AnswerA>
+        <AnswerB>when</AnswerB>
+        <AnswerC>because</AnswerC>
+        <AnswerD>an</AnswerD>
+        <Answer>B</Answer>   </Item>
+    <Item>
+        <ID>50</ID>
+        <Question>She is the most _____.</Question>
+        <AnswerA>intelligent</AnswerA>
+        <AnswerB>clever</AnswerB>
+        <AnswerC>cleverer</AnswerC>
+        <AnswerD>the intelligent</AnswerD>
+        <Answer>A</Answer>   </Item>
+
+</Questionare>
